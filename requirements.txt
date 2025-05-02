@@ -1,0 +1,6 @@
+streamlit
+skyfield
+numpy
+matplotlib
+basemap
+requests
